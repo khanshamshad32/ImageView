@@ -1,10 +1,6 @@
-# ImageView
-
-React Native library to display image with pinch zoom
-
 # @khanshamshad32/image-view
 
-A react native library for android and iOS.
+React Native library to display image with pinch zoom for android and iOS.
 
 ## Install
 
