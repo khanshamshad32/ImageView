@@ -1,0 +1,26 @@
+{
+	"name": "image-view",
+	"version": "1.0.0",
+	"license": "MIT",
+	"private": true,
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"react": "16.9.0",
+		"react-native": "0.61.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/khanshamshad32/ImageView.git"
+	},
+	"keywords": [
+		"react native",
+		"image view",
+		"image pinch zoom",
+		"instagram image"
+	],
+	"author": "Shamshad",
+	"homepage": "https://github.com/khanshamshad32/ImageView.git"
+}
